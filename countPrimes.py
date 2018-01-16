@@ -9,7 +9,7 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-
+        aaa=0
 
         #option2
         # divNum = [2,3,5]
